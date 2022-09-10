@@ -3,7 +3,8 @@
 - 🌱 I’m currently also learning about bitcoin and computing programming.
 - 💞️ I’m looking to collaborate on customer experience and operations regarding software build, creating strategies, and giving insights into the digital products within conception at corporate clients.
 - 📫 How to reach me ...
-- 📧 pedro.oliveira@ateliware.com
+- 📧 p.oliveiram@gmail.com
+- 📝 https://poliveiram.medium.com/
 - 🐦 @poliveiram
 
 <!---
